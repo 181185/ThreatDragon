@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": ""
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Aazern"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
